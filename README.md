@@ -1,5 +1,9 @@
 # Learn Plotly & Dash
 
-Learning to create interactive, publication-quality graphs online using Plotly (https://plot.ly/python/)
+my work material while learning
 
-Learning to create analytical web applications using Dash (https://plot.ly/products/dash/)
+**Plotly** - https://plot.ly/python/
+create interactive, publication-quality graphs online https://plot.ly/python/
+
+**Dash** -  https://plot.ly/products/dash/
+create analytical web applications 
