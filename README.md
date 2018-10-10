@@ -2,8 +2,8 @@
 
 my work material while learning
 
-**Plotly** - https://plot.ly/python/\
-\create interactive, publication-quality graphs online
+**Plotly** - https://plot.ly/python/
+<br \>create interactive, publication-quality graphs online
 
 **Dash** -  https://plot.ly/products/dash/
-\create analytical web applications 
+<br \>create analytical web applications 
